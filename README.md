@@ -1,4 +1,4 @@
-# Prejeto de Teste automatizado 
+# Projeto de Teste automatizado 
 
 ## Descrição 
 
