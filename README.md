@@ -1,4 +1,4 @@
-# Projeto de Teste automatizado 
+# Prejeto de Teste automatizado 
 
 ## Descrição 
 
@@ -21,3 +21,5 @@ Realizar cadastro na pagina do Inchurch, com preenchimento de dados básicos com
 - Acessar a página home do site e clicar no botão "Fazer login ou se inscrever" => Sistema retorna com tela de login
 - Clicar no campo "Registre-se" => Sistema retorna com a proxima página para preecher os campos necessarios
 - Usuário preenche todos os campos corretamente e clica no botão "Criar conta" => Sistema retorna com mensagem "Conta criada com sucesso"
+
+

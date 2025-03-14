@@ -1,0 +1,11 @@
+{
+  "name": "InChurch",
+  "version": "1.0.0",
+  "description": "Teste de de registro de nova conta",
+  "main": "index.js",
+  "author": "Andrevson Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "12.2.0"
+  }
+}
